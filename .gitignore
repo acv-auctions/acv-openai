@@ -1,4 +1,8 @@
+# Build Folders
 node_modules/
 .nuxt/
+
+# Envrionment Files
+.env
 .DS_Store
 .editorconfig
