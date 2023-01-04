@@ -30,3 +30,6 @@ Once running, navigate to [localhost:3000](http://localhost:3000). To interact w
 
 ### OpenAI API Documentation
 For further information on integrating with OpenAI, check out out their [documentation.](https://beta.openai.com/docs/introduction)
+
+### Contributing
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to the project.
