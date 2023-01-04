@@ -1,4 +1,4 @@
-# acv-openai
+# ACV OpenAI
 > A simple to use chatbot powered by by OpenAI.
 
 ## Getting Started
