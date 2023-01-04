@@ -36,7 +36,7 @@
             </v-subheader>
             <v-expand-transition>
               <v-list-item-group  v-if="runningQandAs.length > 0" ref="runningQandAs" color="primary" class="overflow-auto runningQandAs">
-                <v-list-item  v-for="(QandA, i) in runningQandAs" :key="i" class="" @click="null">
+                <v-list-item  v-for="(QandA, i) in runningQandAs" :key="i">
                   <v-list-item-icon>
                     <v-icon>mdi-chat-question</v-icon>
                   </v-list-item-icon>
