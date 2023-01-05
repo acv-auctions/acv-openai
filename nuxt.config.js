@@ -2,7 +2,7 @@ import colors from 'vuetify/es5/util/colors'
 
 export default {
   head: {
-    titleTemplate: 'ACV Auctions | %s',
+    titleTemplate: '%s',
     title: 'OpenAI',
     htmlAttrs: {
       lang: 'en',
